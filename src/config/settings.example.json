@@ -1,0 +1,5 @@
+{
+  "searchUrl": "https://dubai.dubizzle.com/en/property-for-rent/commercial/office/",
+  "maxPages": 5,
+  "nextPageSelector": ".pagination .next"
+}
